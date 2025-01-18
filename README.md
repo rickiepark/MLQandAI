@@ -56,18 +56,18 @@
 | 7 | 다중 GPU 훈련 패러다임 | |
 | 8 | 트랜스포머의 성공 | |
 | 9 | 생성 AI 모델 | |
-| 10 | 무작위성의 원인 | [data-sampling.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q10-random-sources/data-sampling.ipynb) <br> [dropout.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q10-random-sources/dropout.ipynb) <br>  [random-weights.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q10-random-sources/random-weights.ipynb)|
+| 10 | 무작위성의 원인 | [data-sampling.ipynb](supplementary/q10-random-sources/data-sampling.ipynb) <br> [dropout.ipynb](supplementary/q10-random-sources/dropout.ipynb) <br>  [random-weights.ipynb](supplementary/q10-random-sources/random-weights.ipynb)|
 || PART II: 컴퓨터 비전 | |
-| 11 | 파라미터 개수 | [conv-size.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q11-conv-size/q11-conv-size.ipynb)|
-| 12 | 완전 연결 층과 합성곱 층 | [fc-cnn-equivalence.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q12-fc-cnn-equivalence/q12-fc-cnn-equivalence.ipynb)|
+| 11 | 파라미터 개수 | [conv-size.ipynb](supplementary/q11-conv-size/q11-conv-size.ipynb)|
+| 12 | 완전 연결 층과 합성곱 층 | [fc-cnn-equivalence.ipynb](supplementary/q12-fc-cnn-equivalence/q12-fc-cnn-equivalence.ipynb)|
 | 13 | 비전 트랜스포머를 위한 대규모 훈련 세트 | |
 || PART III: 자연어 처리 | |
 | 14 | 분포 가설 | |
-| 15 | 텍스트 데이터 증식 | [backtranslation.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q15-text-augment/backtranslation.ipynb) <br> [noise-injection.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q15-text-augment/noise-injection.ipynb) <br> [sentence-order-shuffling.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q15-text-augment/sentence-order-shuffling.ipynb) <br> [synonym-replacement.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q15-text-augment/synonym-replacement.ipynb) <br> [synthetic-data.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q15-text-augment/synthetic-data.ipynb) <br> [word-deletion.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q15-text-augment/word-deletion.ipynb) <br> [word-position-swapping.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q15-text-augment/word-position-swapping.ipynb)|
+| 15 | 텍스트 데이터 증식 | [backtranslation.ipynb](supplementary/q15-text-augment/backtranslation.ipynb) <br> [noise-injection.ipynb](supplementary/q15-text-augment/noise-injection.ipynb) <br> [sentence-order-shuffling.ipynb](supplementary/q15-text-augment/sentence-order-shuffling.ipynb) <br> [synonym-replacement.ipynb](supplementary/q15-text-augment/synonym-replacement.ipynb) <br> [synthetic-data.ipynb](supplementary/q15-text-augment/synthetic-data.ipynb) <br> [word-deletion.ipynb](supplementary/q15-text-augment/word-deletion.ipynb) <br> [word-position-swapping.ipynb](supplementary/q15-text-augment/word-position-swapping.ipynb)|
 | 16 | 셀프 어텐션 | |
 | 17 | 인코더 기반 트랜스포머와 디코더 기반 트랜스포머 | |
 | 18 | 사전 훈련된 트랜스포머 모델의 사용과 미세 튜닝 방법 | |
-| 19 | 생성형 대규모 언어 모델의 평가 | [BERTScore.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q19-evaluation-llms/BERTScore.ipynb) <br> [bleu.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q19-evaluation-llms/bleu.ipynb) <br> [perplexity.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q19-evaluation-llms/perplexity.ipynb) <br> [rouge.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q19-evaluation-llms/rouge.ipynb) |
+| 19 | 생성형 대규모 언어 모델의 평가 | [BERTScore.ipynb](supplementary/q19-evaluation-llms/BERTScore.ipynb) <br> [bleu.ipynb](supplementary/q19-evaluation-llms/bleu.ipynb) <br> [perplexity.ipynb](supplementary/q19-evaluation-llms/perplexity.ipynb) <br> [rouge.ipynb](supplementary/q19-evaluation-llms/rouge.ipynb) |
 || PART IV: 제품화와 배포 | |
 | 20 | 상태 비저장 훈련과 상태 저장 훈련 | |
 | 21 | 데이터 중심 AI | |
@@ -75,8 +75,8 @@
 | 23 | 데이터 분포 변화 | |
 | | PART V: 예측 성능과 모델 평가 | |
 | 24 | 푸아송 회귀와 서열 회귀 | |
-| 25 | 신뢰 구간 | [four-methods.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q25_confidence-intervals/1_four-methods.ipynb) <br> [four-methods-vs-true-value.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q25_confidence-intervals/2_four-methods-vs-true-value.ipynb)|
-| 26 | 신뢰 구간 vs. 컨포멀 예측 | [conformal_prediction.ipynb](https://github.com/rasbt/MachineLearning-QandAI-book/blob/main/supplementary/q26_conformal-prediction/conformal_prediction.ipynb) |
+| 25 | 신뢰 구간 | [four-methods.ipynb](supplementary/q25_confidence-intervals/1_four-methods.ipynb) <br> [four-methods-vs-true-value.ipynb](supplementary/q25_confidence-intervals/2_four-methods-vs-true-value.ipynb)|
+| 26 | 신뢰 구간 vs. 컨포멀 예측 | [conformal_prediction.ipynb](supplementary/q26_conformal-prediction/conformal_prediction.ipynb) |
 | 27 | 적절한 측정 지표 | |
 | 28 | k-폴드 교차 검증의 k | |
 | 29 | 훈련 세트와 테스트 세트 불일치 | |
