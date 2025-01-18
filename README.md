@@ -1,14 +1,11 @@
 # *Machine Learning Q and AI Beyond the Basics* Book
 
 
+이 저장소는 Sebastian Raschka가 쓴 [Machine Learning Q and AI](https://nostarch.com/machine-learning-q-and-ai)의 번역서를 위한 코드 예제를 담고 있습니다.
 
-이 저장소는 [Sebastian Raschka](http://sebastianraschka.com)가 쓴 [Machine Learning Q and AI](https://nostarch.com/machine-learning-q-and-ai) 책의 예제를 담고 있습니다.
-
-이 책에 궁금한 점이 있다면 [Discussions](https://github.com/rasbt/ml-q-and-ai/discussions)에 글을 남겨 주세요!
+이 책에 궁금한 점이 있다면 [텐서 플로우 블로그](https://tensorflow.blog/ml-q-and-ai)에 글을 남겨 주세요!
 
 <img src="img/cover.jpg" alt="2023-ml-qai-cover" width="200">
-
-<br>
 
 #### 이 책에 대하여
 
@@ -24,22 +21,17 @@
 - ML을 위한 신뢰 구간
 - 등등!
 
-<br>
-
 #### 리뷰
 
 > “과장하지 않고 현재 이 분야에서 가장 뛰어난 머신 러닝 교육자인 세바스찬보다 더 잘 설명하기는 어렵습니다. 매 페이지마다 세바스찬은 폭넓은 지식을 전수할 뿐만 아니라 진정한 전문성이 드러나는 열정과 호기심도 엿볼 수 있습니다.”<br>
 **-- 크리스 앨본(Chris Albon), 위키미디어 재단의 머신러닝 디렉터**
 
-<br>
-
 #### 링크
 
-- [Preorder directly from No Starch press](https://nostarch.com/machine-learning-q-and-ai)
-- [Preorder directly from Amazon](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768)
-- [Supplementary Materias and Discussions](https://github.com/rasbt/MachineLearning-QandAI-book)
+- [Yes24]()
+- [한빛미디어]()
+- [깃허브](https://github.com/rickiepark/MLQandAI)
 
-<br>
 <br>
 
 ## 목차
