@@ -1,11 +1,11 @@
-# *Machine Learning Q and AI Beyond the Basics* Book
+# *머신 러닝 Q & AI*
 
 
 이 저장소는 Sebastian Raschka가 쓴 [Machine Learning Q and AI](https://nostarch.com/machine-learning-q-and-ai)의 번역서를 위한 코드 예제를 담고 있습니다.
 
 이 책에 궁금한 점이 있다면 [텐서 플로우 블로그](https://tensorflow.blog/ml-q-and-ai)에 글을 남겨 주세요!
 
-<img src="img/cover.jpg" alt="2023-ml-qai-cover" width="200">
+<img src="https://tensorflow.blog/wp-content/uploads/2025/03/f_l7od6v75w2r4un65.jpg" alt="2023-ml-qai-cover" width="400">
 
 #### 이 책에 대하여
 
@@ -28,9 +28,9 @@
 
 #### 링크
 
-- [Yes24]()
-- [한빛미디어]()
-- [깃허브](https://github.com/rickiepark/MLQandAI)
+- [Yes24](https://www.yes24.com/product/goods/144225906)
+- [교보문고](https://product.kyobobook.co.kr/detail/S000216175333)
+- [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=361415345)
 
 <br>
 
